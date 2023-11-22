@@ -1,0 +1,6 @@
+{
+    "disableAutoUpdate": false,
+    "name": "fly-forever",
+    "description": "Infinite fly anywhere you want",
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/fly/master/"]
+}
